@@ -18,8 +18,8 @@ Tool              | Description
 
 ### Malware Analysis and Reverse Engineer:
 
-Tool   | Description
------- | ------------------------
+Tool              | Description
+----------------- | ----------------
 [UPXEasyGUI](http://www.novirusthanks.org/products/upx-easy-gui/) | UPX Packer and Unpacker
 
 
