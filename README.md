@@ -13,3 +13,13 @@ Tool              | Description
 [Yara](http://yara.readthedocs.io/en/v3.7.1/index.html) | Tool primarily used in malware research and detection using some rules (for a  great Yara rules [Here](https://github.com/Yara-Rules/rules) )
 [FTK Imager](https://accessdata.com/product-download)  | Tool used to take disk/memory image of the machine
 
+
+
+
+### Malware Analysis and Reverse Engineer:
+
+Tool   | Description
+------ | ------------------------
+[UPXEasyGUI](http://www.novirusthanks.org/products/upx-easy-gui/) | UPX Packer and Unpacker
+
+
