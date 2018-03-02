@@ -12,7 +12,7 @@ Tool              | Description
 [log2timeline](https://github.com/log2timeline/plaso) | Generate super timeline (how to use it: [Here](https://medium.com/dfclub/how-to-use-log2timeline-54377e24872a))
 [Yara](http://yara.readthedocs.io/en/v3.7.1/index.html) | Tool primarily used in malware research and detection using some rules (for a  great Yara rules [Here](https://github.com/Yara-Rules/rules) )
 [FTK Imager](https://accessdata.com/product-download)  | Tool used to take disk/memory image of the machine
-[Yara](http://yara.readthedocs.io/en/v3.7.1/gettingstarted.html) | Scan the files for specific indicators (string, bytes, .. ) for tutorial go [here](http://yara.readthedocs.io/en/v3.7.1/writingrules.html)
+[Yara](http://yara.readthedocs.io/en/v3.7.1/gettingstarted.html) | Scan files for specific indicators (string, bytes, .. ) for tutorial go [here](http://yara.readthedocs.io/en/v3.7.1/writingrules.html)
 
 
 
