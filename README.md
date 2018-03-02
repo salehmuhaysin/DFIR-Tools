@@ -22,6 +22,7 @@ Tool              | Description
 
 Tool              | Description
 ----------------- | ----------------
+[PEStudio](https://www.winitor.com/binaries.html) | Malware Initial Assessment, give file information, strings, resources, imports,...
 [UPXEasyGUI](http://www.novirusthanks.org/products/upx-easy-gui/) | UPX Packer and Unpacker
 
 
