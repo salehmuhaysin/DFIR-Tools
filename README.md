@@ -15,6 +15,7 @@ Tool              | Description
 [Yara](http://yara.readthedocs.io/en/v3.7.1/gettingstarted.html) | Scan files for specific indicators (string, bytes, .. ) for tutorial go [here](http://yara.readthedocs.io/en/v3.7.1/writingrules.html)
 [RegistryChangesView](https://www.nirsoft.net/utils/registry_changes_view.html) | Registry change viewer, give the changes happen to the registry
 
+---
 
 
 
@@ -25,6 +26,8 @@ Tool              | Description
 [PEStudio](https://www.winitor.com/binaries.html) | Malware Initial Assessment, give file information, strings, resources, imports,...
 [dnSpy](https://github.com/0xd4d/dnSpy) | dnSpy is a debugger and .NET assembly editor
 [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | windows sysinternals utilities to monitor the system 
+
+---
 
 
 ### Unpackers/Obfuscators
