@@ -14,7 +14,7 @@ Tool              | Description
 [FTK Imager](https://accessdata.com/product-download)  | Tool used to take disk/memory image of the machine
 [Yara](http://yara.readthedocs.io/en/v3.7.1/gettingstarted.html) | Scan files for specific indicators (string, bytes, .. ) for tutorial go [here](http://yara.readthedocs.io/en/v3.7.1/writingrules.html)
 [RegistryChangesView](https://www.nirsoft.net/utils/registry_changes_view.html) | Registry change viewer, give the changes happen to the registry
-
+[VirusTotalHashScanner](https://github.com/salehmuhaysin/VirusTotalHashScanner) | Check a list of hashes in VirusTotal for any malicious file
 ---
 
 
