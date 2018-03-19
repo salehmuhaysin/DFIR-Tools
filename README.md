@@ -27,6 +27,7 @@ Tool              | Description
 [dnSpy](https://github.com/0xd4d/dnSpy) | dnSpy is a debugger and .NET assembly editor
 [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | windows sysinternals utilities to monitor the system 
 [DLLExportViewer](http://www.nirsoft.net/utils/dll_export_viewer.html) | Show all the export functions for any DLL file
+[PDF-Parser](https://blog.didierstevens.com/programs/pdf-tools/) | Python script to parse PDF files
 ---
 
 
