@@ -32,6 +32,7 @@ Tool              | Description
 [DLLExportViewer](http://www.nirsoft.net/utils/dll_export_viewer.html) | Show all the export functions for any DLL file
 [PDF-Parser & pdfid](https://blog.didierstevens.com/programs/pdf-tools/) | Python script to parse PDF files
 [Snowman](https://derevenets.com/) | Is an executable decompiler to C/C++
+[exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) | Tool extract the metadata for a given file
 ---
 
 
