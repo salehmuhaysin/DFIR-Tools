@@ -30,6 +30,7 @@ Tool              | Description
 [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | windows sysinternals utilities to monitor the system 
 [DLLExportViewer](http://www.nirsoft.net/utils/dll_export_viewer.html) | Show all the export functions for any DLL file
 [PDF-Parser & pdfid](https://blog.didierstevens.com/programs/pdf-tools/) | Python script to parse PDF files
+[Snowman](https://derevenets.com/) | Is an executable decompiler to C/C++
 ---
 
 
