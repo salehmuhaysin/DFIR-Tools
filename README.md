@@ -32,6 +32,9 @@ Tool              | Description
 [PDF-Parser & pdfid](https://blog.didierstevens.com/programs/pdf-tools/) | Python script to parse PDF files
 [Snowman](https://derevenets.com/) | Is an executable decompiler to C/C++
 [exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) | Tool extract the metadata for a given file
+[PE-Sieve](https://github.com/hasherezade/pe-sieve) | Tool take PID and check if the original file same as the file loaded in memory
+
+
 ---
 
 
