@@ -16,6 +16,7 @@ Tool              | Description
 [RegistryChangesView](https://www.nirsoft.net/utils/registry_changes_view.html) | Registry change viewer, give the changes happen to the registry
 [VirusTotalHashScanner](https://github.com/salehmuhaysin/VirusTotalHashScanner) | Check a list of hashes in VirusTotal for any malicious file
 [Prefetch Parser](https://github.com/bromiley/tools/tree/master/win10_prefetch) | Prefetch file parser, get execution time and execution count.
+[Eric Zimmerman](https://ericzimmerman.github.io/#!index.md) | List of useful tools for DFIR 
 
 ---
 
