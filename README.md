@@ -51,7 +51,7 @@ Tool              | Description
 
 
 ### Helpful Commands
-> for f in \*/Logs/\*.evtx ; do mkdir -p $(echo "./Events/$f" | awk -F '/' '{print $1 "/" $2 "/" $3 "/" $4 "/"}') ; evtx_dump.py "$f" > "./Events/${f%.xml}.xml" ; done
+> for f in \*/Logs/\*.evtx ; do echo "$f" ; mkdir -p $(echo "./Events/$f" | awk -F '/' '{print $1 "/" $2 "/" $3 "/" $4 "/"}') ; evtx_dump.py "$f" > "./Events/${f%.xml}.xml" ; echo " Done ..." ; done
 
 this command will read all evtx files on \*/Logs/ folders and convert them into xml files under the folder ./Events with same directories from the original one.
 
