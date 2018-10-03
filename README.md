@@ -46,3 +46,12 @@ Tool              | Description
 [RDGPackerDetector](http://www.rdgsoft.net/) | Detect the type of the packer for a given program
 [ConfuserEx-DeObfuscate](https://github.com/salehmuhaysin/DFIR-Tools/blob/master/Tools/ConfuserEx%20Collection.zip) | These tools could be used to deobfuscate executables packed by ConfuserEx
 [Scylla](http://www.woodmann.com/collaborative/tools/index.php/Scylla) | A great tool used to rebuild the import address table of executable (useful for manual unpacking of executables)
+
+
+
+
+### Helpful Commands
+> for f in */Logs/*.evtx ; do mkdir -p $(echo "./Events/$f" | awk -F '/' '{print $1 "/" $2 "/" $3 "/" $4 "/"}') ; evtx_dump.py "$f" > "./Events/${f%.xml}.xml" ; done
+
+this command will read all evtx files on \*/Logs/ folders and convert them into xml files under the folder ./Events with same directories from the original one.
+
