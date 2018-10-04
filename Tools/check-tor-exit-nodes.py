@@ -5,8 +5,8 @@
 # pip install validators
 # how to use it:
 # python check-tor-exit-nodes.py [<logs-folder>|<log-file>] <exit-nodes-list>
-
-
+# example:  python check-tor-exit-nodes.py ./ ./exitnodes.txt > res_exitnotes.txt
+# this tool will only check the .log files
 
 from validators import ip_address
 import sys
