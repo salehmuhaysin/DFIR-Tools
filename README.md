@@ -55,3 +55,7 @@ Tool              | Description
 
 this command will read all evtx files on \*/Logs/ folders and convert them into xml files under the folder ./Events with same directories from the original one.
 
+> for f in \*/Logs/\*.evtx ; do echo "$f" ; mkdir -p $(echo "./Events/$f" | awk -F '/' '{print $1 "/" $2 "/" $3 "/" $4 "/"}') ; test ! $(wc -c "$f" | awk '{print $1 }' ) -le 550000000;  $(\[\[ $? -eq 1 \]\] && evtx_dump.py "$f" > "./Events/${f%.xml}.xml") ; echo " Done ..." ; done
+
+Same command but, this will check the file size not more than 550000000 bytes
+
