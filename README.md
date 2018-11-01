@@ -11,6 +11,7 @@ Tool              | Description
 [Autopsy](https://www.sleuthkit.org/autopsy/)           | Disk image browser and parser (you could parse for .exe files, email messages, IP addresses, URL links, disk indexing,...) and you could browse the file system
 [log2timeline](https://github.com/log2timeline/plaso) | Generate super timeline (how to use it: [Here](https://medium.com/dfclub/how-to-use-log2timeline-54377e24872a))
 [Yara](http://yara.readthedocs.io/en/v3.7.1/index.html) | Tool primarily used in malware research and detection using some rules (for a  great Yara rules [Here](https://github.com/Yara-Rules/rules) )
+[YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator) | Generate a yara rule for a given samples on automated way 
 [ZipDump](https://github.com/DidierStevens/DidierStevensSuite/edit/master/zipdump.py) | Tool could be used to search using Yara rules inside given archive file
 [FTK Imager](https://accessdata.com/product-download)  | Tool used to take disk/memory image of the machine
 [RegistryChangesView](https://www.nirsoft.net/utils/registry_changes_view.html) | Registry change viewer, give the changes happen to the registry
