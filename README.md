@@ -60,3 +60,8 @@ this command will read all evtx files on \*/Logs/ folders and convert them into 
 
 Same command but, this will check the file size not more than 550000000 bytes
 
+
+---
+copy files and show the progress 
+> rsync -r --info=progress2 source destination
+
