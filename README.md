@@ -63,5 +63,5 @@ Same command but, this will check the file size not more than 550000000 bytes
 
 ---
 copy files and show the progress 
-> rsync -r --info=progress2 source destination
+> rsync -r --info=progress2 <source> <destination>
 
