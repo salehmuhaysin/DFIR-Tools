@@ -35,7 +35,7 @@ Tool              | Description
 [Snowman](https://derevenets.com/) | Is an executable decompiler to C/C++
 [exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) | Tool extract the metadata for a given file
 [PE-Sieve](https://github.com/hasherezade/pe-sieve) | Tool take PID and check if the original file same as the file loaded in memory
-
+[Jmp2it](https://github.com/adamkramer/jmp2it/releases) | Tool used to load a shellcode into executable, and attach IDA to debug the shellcode
 
 ---
 
