@@ -18,6 +18,7 @@ Tool              | Description
 [VirusTotalHashScanner](https://github.com/salehmuhaysin/VirusTotalHashScanner) | Check a list of hashes in VirusTotal for any malicious file
 [Prefetch Parser](https://github.com/bromiley/tools/tree/master/win10_prefetch) | Prefetch file parser, get execution time and execution count.
 [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md) | List of useful tools for DFIR 
+[OfficeParser](https://github.com/unixfreak0037/officeparser) | parse office documents, good to extract the VBA files inside them
 
 ---
 
@@ -64,3 +65,6 @@ Same command but, this will check the file size not more than 550000000 bytes
 ---
 copy files and show the progress 
 > rsync -r --info=progress2 source destination
+---
+Extract VBA macro from a list of document files
+> for f in * ; do echo "$f" ; mkdir -p $(echo "./output/$f") ; officeparser --extract-macros $f -o "./output/$f" ; echo " Done ..." ; done
