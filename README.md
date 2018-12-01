@@ -74,8 +74,11 @@ How to use xargs to do multiprocessing commands:
 > find ./ -name '*.log' | xargs -rtP 20 -L1 grep "pattern" > output.txt
 
 -P 20: number of processes at the same time
+
 -t: print the command
+
 -r: run only if there is argument
+
 -L1: one argument at the same time, means one file per command
 
 Note: if you use -L1 and write output on text file, the result might be missed up, so it is better not using it if there are many input files
