@@ -68,3 +68,12 @@ copy files and show the progress
 ---
 Extract VBA macro from a list of document files
 > for f in * ; do echo "$f" ; mkdir -p $(echo "./output/$f") ; officeparser --extract-macros $f -o "./output/$f" ; echo " Done ..." ; done
+
+---
+How to use xargs to do multiprocessing commands:
+> find ./ -name '*.log' | xargs -rtP 20 -L1 grep "pattern" > output.txt
+
+-P 20: number of processes at the same time
+-t: print the command
+-r: run only if there is argument
+-L1: one argument at the same time, means one file per command
