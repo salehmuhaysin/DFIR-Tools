@@ -61,6 +61,8 @@ this command will read all evtx files on \*/Logs/ folders and convert them into 
 
 Same command but, this will check the file size not more than 550000000 bytes
 
+fast command: 
+> for f in ./*.evtx ; do echo "$f" ; evtx_dump.py "$f" > "./Events/${f%.xml}.xml" ; echo " Done ..." ; done
 
 ---
 copy files and show the progress 
