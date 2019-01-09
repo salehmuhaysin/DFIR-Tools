@@ -90,7 +90,11 @@ Note: if you use -L1 and write output on text file, the result might be missed u
 How to set Linux Forwarder machine from one interface to another
 
 > modprobe iptable_nat
+
 > echo 1 > /proc/sys/net/ipv4/ip_forward
+
 > iptables -t nat -A POSTROUTING -d 0/0 -s 10.0.1.0/24 -j MASQUERADE
+
 > iptables -A FORWARD -s 10.0.1.0/24 -d 0/0 -j ACCEPT
+
 > iptables -A FORWARD -s 0/0 -d 10.0.1.0/24 -j ACCEPT
