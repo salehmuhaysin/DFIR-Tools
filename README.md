@@ -20,6 +20,7 @@ Tool              | Description
 [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md) | List of useful tools for DFIR 
 [OfficeParser](https://github.com/unixfreak0037/officeparser) | parse office documents, good to extract the VBA files inside them
 [CDIR](https://github.com/CyberDefenseInstitute/CDIR) | Artifacts ccollector
+[Glogg](http://glogg.bonnefon.org/download.html) | GUI version for grep command across multiple platform 
 
 ---
 
