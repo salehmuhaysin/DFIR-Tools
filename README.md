@@ -52,7 +52,12 @@ Tool              | Description
 [Scylla](http://www.woodmann.com/collaborative/tools/index.php/Scylla) | A great tool used to rebuild the import address table of executable (useful for manual unpacking of executables)
 
 ---
+### Helpful links
+link              | Description
+----------------- | ----------------
+[XSS cheat sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet#No_closing_script_tags) | include a list of XSS technquies could be used.
 
+---
 
 ### Helpful Commands
 > for f in \*/Logs/\*.evtx ; do echo "$f" ; mkdir -p $(echo "./Events/$f" | awk -F '/' '{print $1 "/" $2 "/" $3 "/" $4 "/"}') ; evtx_dump.py "$f" > "./Events/${f%.xml}.xml" ; echo " Done ..." ; done
