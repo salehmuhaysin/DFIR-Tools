@@ -21,6 +21,7 @@ Tool              | Description
 [OfficeParser](https://github.com/unixfreak0037/officeparser) | parse office documents, good to extract the VBA files inside them
 [CDIR](https://github.com/CyberDefenseInstitute/CDIR) | Artifacts ccollector
 [Glogg](http://glogg.bonnefon.org/download.html) | GUI version for grep command across multiple platform 
+[Rekall](https://github.com/google/rekall) | Memory analysis framework, (similar to volatility)
 
 ---
 
