@@ -23,6 +23,7 @@ Tool              | Description
 [Glogg](http://glogg.bonnefon.org/download.html) | GUI version for grep command across multiple platform 
 [Rekall](https://github.com/google/rekall) | Memory analysis framework, (similar to volatility)
 [bulk_volatility_scanner](https://github.com/rcobb76101/bulk_volatility_scanner) | This is a great easy to use script that runs all volatility plugins on all memory images provided. it takes the path of the images and the path of the output dir. Run it and sip tea or do something else until it is done (wink)
+[BMC viewer](https://github.com/0xTowel/BMC-Viewer-Backup) | viewer for pictures of .bmc files
 
 ---
 
