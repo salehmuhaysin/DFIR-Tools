@@ -59,6 +59,7 @@ Tool              | Description
 link              | Description
 ----------------- | ----------------
 [XSS cheat sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet#No_closing_script_tags) | include a list of XSS technquies could be used.
+[Stego tools](http://stegano.net/tools) | List of stego tools
 
 ---
 
