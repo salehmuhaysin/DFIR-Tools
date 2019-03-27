@@ -56,6 +56,7 @@ Tool              | Description
 [RDGPackerDetector](http://www.rdgsoft.net/) | Detect the type of the packer for a given program
 [ConfuserEx-DeObfuscate](https://github.com/salehmuhaysin/DFIR-Tools/blob/master/Tools/ConfuserEx%20Collection.zip) | These tools could be used to deobfuscate executables packed by ConfuserEx
 [Scylla](http://www.woodmann.com/collaborative/tools/index.php/Scylla) | A great tool used to rebuild the import address table of executable (useful for manual unpacking of executables)
+[Protection_ID.eXe](https://tuts4you.com/e107_plugins/download/download.php?view.400) | tool used to detect the obfuscation type
 
 ---
 ### Helpful links
