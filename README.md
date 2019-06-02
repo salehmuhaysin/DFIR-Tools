@@ -112,3 +112,11 @@ How to set Linux Forwarder machine from one interface to another
 > iptables -A FORWARD -s 10.0.1.0/24 -d 0/0 -j ACCEPT
 
 > iptables -A FORWARD -s 0/0 -d 10.0.1.0/24 -j ACCEPT
+
+
+--- 
+
+If one use zgrep just like you use grep.
+If many:
+
+> find -iname "*.gz" | xargs zgrep <options like -P or -i ...> "<str or regex if using -P>"
