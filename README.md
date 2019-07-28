@@ -27,6 +27,7 @@ Tool              | Description
 [PC Hunter](https://www.majorgeeks.com/files/details/pc_hunter.html) | GUI tool gives detailed information of processes, dlls, hooks both ring 0 and 3, (similar to process hacker)
 [MemProcFS](https://github.com/ufrisk/MemProcFS) | Accesses memory as a mounted filesystem. It can be used as an API as well. Can be used on live memory or a memory dump file.
 [TC4shell](http://www.tc4shell.com/en/download/) | Decompress most of compressed files, such as AD1, etc.
+[Recyclebin](https://df-stream.com/recycle-bin-i-parser/) | Recyclebin parser for ($I) files
 
 ---
 
