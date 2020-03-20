@@ -1,0 +1,131 @@
+
+
+
+## Known Folder GUID
+
+GUID              | Display Name  | Folder Type | Folder Path
+----------------- | ------------- | ----------- | ----------------
+{008ca0b1-55b4-4c56-b8a8-4de4b299d3be}|Account Pictures|PERUSER|%APPDATA%\Microsoft\Windows\AccountPictures
+{de61d971-5ebc-4f02-a3a9-6c82895e5c04}|Get Programs|VIRTUAL|Not applicable—virtual folder
+{724EF170-A42D-4FEF-9F26-B60E846FBA4F}|Administrative Tools|PERUSER|%APPDATA%\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+{B2C5E279-7ADD-439F-B28C-C41FE1BBF672}|AppDataDesktop|PERUSER|%LOCALAPPDATA%\Desktop
+{7BE16610-1F7F-44AC-BFF0-83E15F2FFCA1}|AppDataDocuments|PERUSER|%LOCALAPPDATA%\Documents
+{7CFBEFBC-DE1F-45AA-B843-A542AC536CC9}|AppDataFavorites|PERUSER|%LOCALAPPDATA%\Favorites
+{559D40A3-A036-40FA-AF61-84CB430A4D34}|AppDataProgramData|PERUSER|%LOCALAPPDATA%\ProgramData
+{A3918781-E5F2-4890-B3D9-A7E54332328C}|Application Shortcuts|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\Application Shortcuts
+{1e87508d-89c2-42f0-8a7e-645a0f50ca58}|Applications|VIRTUAL|Not applicable—virtual folder
+{a305ce99-f527-492b-8b1a-7e76fa98d6e4}|Installed Updates|VIRTUAL|Not applicable—virtual folder
+{AB5FB87B-7CE2-4F83-915D-550846C9537B}|Camera Roll|PERUSER|%USERPROFILE%\Pictures\Camera Roll
+{9E52AB10-F80D-49DF-ACB8-4330F5687855}|Temporary Burn Folder|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\Burn\Burn
+{df7266ac-9274-4867-8d55-3bd661de872d}|Programs and Features|VIRTUAL|Not applicable—virtual folder
+{D0384E7D-BAC3-4797-8F14-CBA229B392B5}|Administrative Tools|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+{C1BAE2D0-10DF-4334-BEDD-7AA20B227A9D}|OEM Links|COMMON|%ALLUSERSPROFILE%\OEM Links
+{0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}|Programs|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs
+{A4115719-D62E-491D-AA7C-E74B8BE3B067}|Start Menu|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu
+{82A5EA35-D9CD-47C5-9629-E15D2F714E6E}|Startup|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\StartUp
+{B94237E7-57AC-4347-9151-B08C6C32D1F7}|Templates|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Templates
+{0AC0837C-BBF8-452A-850D-79D08E667CA7}|Computer|VIRTUAL|Not applicable—virtual folder
+{4bfefb45-347d-4006-a5be-ac0cb0567192}|Conflicts|VIRTUAL|Not applicable—virtual folder
+{6F0CD92B-2E97-45D1-88FF-B0D186B8DEDD}|Network Connections|VIRTUAL|Not applicable—virtual folder
+{56784854-C6CB-462b-8169-88E350ACB882}|Contacts|PERUSER|%USERPROFILE%\Contacts
+{82A74AEB-AEB4-465C-A014-D097EE346D63}|Control Panel|VIRTUAL|Not applicable—virtual folder
+{2B0F765D-C0E9-4171-908E-08A611B84FF6}|Cookies|PERUSER|%APPDATA%\Microsoft\Windows\Cookies
+{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}|Desktop|PERUSER|%USERPROFILE%\Desktop
+{5CE4A5E9-E4EB-479D-B89F-130C02886155}|DeviceMetadataStore|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\DeviceMetadataStore
+{FDD39AD0-238F-46AF-ADB4-6C85480369C7}|Documents|PERUSER|%USERPROFILE%\Documents
+{7B0DB17D-9CD2-4A93-9733-46CC89022E7C}|Documents|PERUSER|%APPDATA%\Microsoft\Windows\Libraries\Documents.library-ms
+{374DE290-123F-4565-9164-39C4925E467B}|Downloads|PERUSER|%USERPROFILE%\Downloads
+{1777F761-68AD-4D8A-87BD-30B759FA33DD}|Favorites|PERUSER|%USERPROFILE%\Favorites
+{FD228CB7-AE11-4AE3-864C-16F3910AB8FE}|Fonts|FIXED|%windir%\Fonts
+{CAC52C1A-B53D-4edc-92D7-6B2E8AC19434}|Games|VIRTUAL|Not applicable—virtual folder
+{054FAE61-4DD8-4787-80B6-090220C4B700}|GameExplorer|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\GameExplorer
+{D9DC8A3B-B784-432E-A781-5A1130A75963}|History|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\History
+{52528A6B-B9E3-4ADD-B60D-588C2DBA842D}|Homegroup|VIRTUAL|Not applicable—virtual folder
+{9B74B6A3-0DFD-4f11-9E78-5F7800F2E772}|The user's username (%USERNAME%)|VIRTUAL|Not applicable—virtual folder
+{BCB5256F-79F6-4CEE-B725-DC34E402FD46}|ImplicitAppShortcuts|PERUSER|%APPDATA%\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts
+{352481E8-33BE-4251-BA85-6007CAEDCF9D}|Temporary Internet Files|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\Temporary Internet Files
+{4D9F7874-4E0C-4904-967B-40B0D20C3E4B}|The Internet|VIRTUAL|Not applicable—virtual folder
+{1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}|Libraries|PERUSER|%APPDATA%\Microsoft\Windows\Libraries
+{bfb9d5e0-c6a9-404c-b2b2-ae6db6af4968}|Links|PERUSER|%USERPROFILE%\Links
+{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}|Local|PERUSER|%LOCALAPPDATA% (%USERPROFILE%\AppData\Local)
+{A520A1A4-1780-4FF6-BD18-167343C5AF16}|LocalLow|PERUSER|%USERPROFILE%\AppData\LocalLow
+{2A00375E-224C-49DE-B8D1-440DF7EF3DDC}|None|FIXED|%windir%\resources\0409 (code page)
+{4BD8D571-6D19-48D3-BE97-422220080E43}|Music|PERUSER|%USERPROFILE%\Music
+{2112AB0A-C86A-4FFE-A368-0DE96E47012E}|Music|PERUSER|%APPDATA%\Microsoft\Windows\Libraries\Music.library-ms
+{C5ABBF53-E17F-4121-8900-86626FC2C973}|Network Shortcuts|PERUSER|%APPDATA%\Microsoft\Windows\Network Shortcuts
+{D20BEEC4-5CA8-4905-AE3B-BF251EA09B53}|Network|VIRTUAL|Not applicable—virtual folder
+{31C0DD25-9439-4F12-BF41-7FF4EDA38722}|3D Objects|PERUSER|%USERPROFILE%\3D Objects
+{2C36C0AA-5812-4b87-BFD0-4CD0DFB19B39}|Original Images|PERUSER|%LOCALAPPDATA%\Microsoft\Windows Photo Gallery\Original Images
+{69D2CF90-FC33-4FB7-9A0C-EBB0F0FCB43C}|Slide Shows|PERUSER|%USERPROFILE%\Pictures\Slide Shows
+{A990AE9F-A03B-4E80-94BC-9912D7504104}|Pictures|PERUSER|%APPDATA%\Microsoft\Windows\Libraries\Pictures.library-ms
+{33E28130-4E1E-4676-835A-98395C3BC3BB}|Pictures|PERUSER|%USERPROFILE%\Pictures
+{DE92C1C7-837F-4F69-A3BB-86E631204A23}|Playlists|PERUSER|%USERPROFILE%\Music\Playlists
+{76FC4E2D-D6AD-4519-A663-37BD56068185}|Printers|VIRTUAL|Not applicable—virtual folder
+{9274BD8D-CFD1-41C3-B35E-B13F55A758F4}|Printer Shortcuts|PERUSER|%APPDATA%\Microsoft\Windows\Printer Shortcuts
+{5E6C858F-0E22-4760-9AFE-EA3317B67173}|The user's username (%USERNAME%)|FIXED|%USERPROFILE% (%SystemDrive%\Users\%USERNAME%)
+{62AB5D82-FDC1-4DC3-A9DD-070D1D495D97}|ProgramData|FIXED|%ALLUSERSPROFILE% (%ProgramData%, %SystemDrive%\ProgramData)
+{905e63b6-c1bf-494e-b29c-65b732d3d21a}|Program Files|FIXED|%ProgramFiles% (%SystemDrive%\Program Files)
+{6D809377-6AF0-444b-8957-A3773F02200E}|Program Files|FIXED|%ProgramFiles% (%SystemDrive%\Program Files)
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}|Program Files|FIXED|%ProgramFiles% (%SystemDrive%\Program Files)
+{F7F1ED05-9F6D-47A2-AAAE-29D317C6F066}|Common Files|FIXED|%ProgramFiles%\Common Files
+{6365D5A7-0F0D-45E5-87F6-0DA56B6A4F7D}|Common Files|FIXED|%ProgramFiles%\Common Files
+{DE974D24-D9C6-4D3E-BF91-F4455120B917}|Common Files|FIXED|%ProgramFiles%\Common Files
+{A77F5D77-2E2B-44C3-A6A2-ABA601054A51}|Programs|PERUSER|%APPDATA%\Microsoft\Windows\Start Menu\Programs
+{DFDF76A2-C82A-4D63-906A-5644AC457385}|Public|FIXED|%PUBLIC% (%SystemDrive%\Users\Public)
+{C4AA340D-F20F-4863-AFEF-F87EF2E6BA25}|Public Desktop|COMMON|%PUBLIC%\Desktop
+{ED4824AF-DCE4-45A8-81E2-FC7965083634}|Public Documents|COMMON|%PUBLIC%\Documents
+{3D644C9B-1FB8-4f30-9B45-F670235F79C0}|Public Downloads|COMMON|%PUBLIC%\Downloads
+{DEBF2536-E1A8-4c59-B6A2-414586476AEA}|GameExplorer|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\GameExplorer
+{48DAF80B-E6CF-4F4E-B800-0E69D84EE384}|Libraries|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Libraries
+{3214FAB5-9757-4298-BB61-92A9DEAA44FF}|Public Music|COMMON|%PUBLIC%\Music
+{B6EBFB86-6907-413C-9AF7-4FC2ABF07CC5}|Public Pictures|COMMON|%PUBLIC%\Pictures
+{E555AB60-153B-4D17-9F04-A5FE99FC15EC}|Ringtones|COMMON|%ALLUSERSPROFILE%\Microsoft\Windows\Ringtones
+{0482af6c-08f1-4c34-8c90-e17ec98b1e17}|Public Account Pictures|COMMON|%PUBLIC%\AccountPictures
+{2400183A-6185-49FB-A2D8-4A392A602BA3}|Public Videos|COMMON|%PUBLIC%\Videos
+{52a4f021-7b75-48a9-9f6b-4b87a210bc8f}|Quick Launch|PERUSER|%APPDATA%\Microsoft\Internet Explorer\Quick Launch
+{AE50C081-EBD2-438A-8655-8A092E34987A}|Recent Items|PERUSER|%APPDATA%\Microsoft\Windows\Recent
+{1A6FDBA2-F42D-4358-A798-B74D745926C5}|Recorded TV|COMMON|%PUBLIC%\RecordedTV.library-ms
+{B7534046-3ECB-4C18-BE4E-64CD4CB7D6AC}|Recycle Bin|VIRTUAL|Not applicable—virtual folder
+{8AD10C31-2ADB-4296-A8F7-E4701232C972}|Resources|FIXED|%windir%\Resources
+{C870044B-F49E-4126-A9C3-B52A1FF411E8}|Ringtones|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\Ringtones
+{3EB685DB-65F9-4CF6-A03A-E3EF65729F3D}|Roaming|PERUSER|%APPDATA% (%USERPROFILE%\AppData\Roaming)
+{AAA8D5A5-F1D6-4259-BAA8-78E7EF60835E}|RoamedTileImages|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\RoamedTileImages
+{00BCFC5A-ED94-4e48-96A1-3F6217F21990}|RoamingTiles|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\RoamingTiles
+{B250C668-F57D-4EE1-A63C-290EE7D1AA1F}|Sample Music|COMMON|%PUBLIC%\Music\Sample Music
+{C4900540-2379-4C75-844B-64E6FAF8716B}|Sample Pictures|COMMON|%PUBLIC%\Pictures\Sample Pictures
+{15CA69B3-30EE-49C1-ACE1-6B5EC372AFB5}|Sample Playlists|COMMON|%PUBLIC%\Music\Sample Playlists
+{859EAD94-2E85-48AD-A71A-0969CB56A6CD}|Sample Videos|COMMON|%PUBLIC%\Videos\Sample Videos
+{4C5C32FF-BB9D-43b0-B5B4-2D72E54EAAA4}|Saved Games|PERUSER|%USERPROFILE%\Saved Games
+{3B193882-D3AD-4eab-965A-69829D1FB59F}|Saved Pictures|PERUSER|%USERPROFILE%\Pictures\Saved Pictures
+{E25B5812-BE88-4bd9-94B0-29233477B6C3}|Saved Pictures Library|PERUSER|%APPDATE%\Microsoft\Windows\Libraries\SavedPictures.library-ms
+{7d1d3a04-debb-4115-95cf-2f29da2920da}|Searches|PERUSER|%USERPROFILE%\Searches
+{b7bede81-df94-4682-a7d8-57a52620b86f}|Screenshots|PERUSER|%USERPROFILE%\Pictures\Screenshots
+{ee32e446-31ca-4aba-814f-a5ebd2fd6d5e}|Offline Files|VIRTUAL|Not applicable—virtual folder
+{0D4C3DB6-03A3-462F-A0E6-08924C41B5D4}|History|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\ConnectedSearch\History
+{190337d1-b8ca-4121-a639-6d472d16972a}|Search Results|VIRTUAL|Not applicable—virtual folder
+{98ec0e18-2098-4d44-8644-66979315a281}|Microsoft Office Outlook|VIRTUAL|Not applicable—virtual folder
+{7E636BFE-DFA9-4D5E-B456-D7B39851D8A9}|Templates|PERUSER|%LOCALAPPDATA%\Microsoft\Windows\ConnectedSearch\Templates
+{8983036C-27C0-404B-8F08-102D10DCFD74}|SendTo|PERUSER|%APPDATA%\Microsoft\Windows\SendTo
+{7B396E54-9EC5-4300-BE0A-2482EBAE1A26}|Gadgets|COMMON|%ProgramFiles%\Windows Sidebar\Gadgets
+{A75D362E-50FC-4fb7-AC2C-A8BEAA314493}|Gadgets|PERUSER|%LOCALAPPDATA%\Microsoft\Windows Sidebar\Gadgets
+{A52BBA46-E9E1-435f-B3D9-28DAA648C0F6}|OneDrive|PERUSER|%USERPROFILE%\OneDrive
+{767E6811-49CB-4273-87C2-20F355E1085B}|Camera Roll|PERUSER|%USERPROFILE%\OneDrive\Pictures\Camera Roll
+{24D89E24-2F19-4534-9DDE-6A6671FBB8FE}|Documents|PERUSER|%USERPROFILE%\OneDrive\Documents
+{339719B5-8C47-4894-94C2-D8F77ADD44A6}|Pictures|PERUSER|%USERPROFILE%\OneDrive\Pictures
+{625B53C3-AB48-4EC1-BA1F-A1EF4146FC19}|Start Menu|PERUSER|%APPDATA%\Microsoft\Windows\Start Menu
+{B97D20BB-F46A-4C97-BA10-5E3608430854}|Startup|PERUSER|%APPDATA%\Microsoft\Windows\Start Menu\Programs\StartUp
+{43668BF8-C14E-49B2-97C9-747784D784B7}|Sync Center|VIRTUAL|Not applicable—virtual folder
+{289a9a43-be44-4057-a41b-587a76d7e7f9}|Sync Results|VIRTUAL|Not applicable—virtual folder
+{0F214138-B1D3-4a90-BBA9-27CBC0C5389A}|Sync Setup|VIRTUAL|Not applicable—virtual folder
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}|System32|FIXED|%windir%\system32
+{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}|System32|FIXED|%windir%\system32
+{A63293E8-664E-48DB-A079-DF759E0509F7}|Templates|PERUSER|%APPDATA%\Microsoft\Windows\Templates
+{9E3995AB-1F9C-4F13-B827-48B24B6C7174}|User Pinned|PERUSER|%APPDATA%\Microsoft\Internet Explorer\Quick Launch\User Pinned
+{0762D272-C50A-4BB0-A382-697DCD729B80}|Users|FIXED|%SystemDrive%\Users
+{5CD7AEE2-2219-4A67-B85D-6C9CE15660CB}|Programs|PERUSER|%LOCALAPPDATA%\Programs
+{BCBD3057-CA5C-4622-B42D-BC56DB0AE516}|Programs|PERUSER|%LOCALAPPDATA%\Programs\Common
+{f3ce0f7c-4901-4acc-8648-d5d44b04ef8f}|The user's full name (for instance, Jean Philippe Bagel) entered when the user account was created.|VIRTUAL|Not applicable—virtual folder
+{A302545D-DEFF-464b-ABE8-61C8648D939B}|Libraries|VIRTUAL|Not applicable—virtual folder
+{18989B1D-99B5-455B-841C-AB7C74E4DDFC}|Videos|PERUSER|%USERPROFILE%\Videos
+{491E922F-5643-4AF4-A7EB-4E7A138D8174}|Videos|PERUSER|%APPDATA%\Microsoft\Windows\Libraries\Videos.library-ms
+{F38BF404-1D43-42F2-9305-67DE0B28FC23}|Windows|FIXED|%windir%
