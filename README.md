@@ -47,6 +47,7 @@ Tool              | Description
 [PE-Sieve](https://github.com/hasherezade/pe-sieve) | Tool take PID and check if the original file same as the file loaded in memory
 [Jmp2it](https://github.com/adamkramer/jmp2it/releases) | Tool used to load a shellcode into executable, and attach IDA to debug the shellcode
 [File Signature](https://www.filesignatures.net/index.php?page=all) | Website contain a list of file extensions and signature
+[ProcDOT](https://www.procdot.com/downloadprocdotbinaries.htm) | Visualization for process monitor logs 
 
 ---
 
