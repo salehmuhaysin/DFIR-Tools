@@ -48,7 +48,10 @@ Tool              | Description
 [Jmp2it](https://github.com/adamkramer/jmp2it/releases) | Tool used to load a shellcode into executable, and attach IDA to debug the shellcode
 [File Signature](https://www.filesignatures.net/index.php?page=all) | Website contain a list of file extensions and signature
 [ProcDOT](https://www.procdot.com/downloadprocdotbinaries.htm) | Visualization for process monitor logs 
-
+[TcpLogView](https://www.nirsoft.net/utils/tcp_log_view.html) | store the logs for all opened tcp connections on the machine as well as the corresponding process 
+[PE Capture](https://www.novirusthanks.org/products/pe-capture/) | Capture PE files, such as executables, DLLs and drivers, loaded in the system
+[PolarProxy](https://www.netresec.com/?page=PolarProxy) | Intercept and decrypt TLS encrypted traffic from malware that is run in a controlled environment
+ 
 ---
 
 
