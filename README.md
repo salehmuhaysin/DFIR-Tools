@@ -51,6 +51,7 @@ Tool              | Description
 [TcpLogView](https://www.nirsoft.net/utils/tcp_log_view.html) | store the logs for all opened tcp connections on the machine as well as the corresponding process 
 [PE Capture](https://www.novirusthanks.org/products/pe-capture/) | Capture PE files, such as executables, DLLs and drivers, loaded in the system
 [PolarProxy](https://www.netresec.com/?page=PolarProxy) | Intercept and decrypt TLS encrypted traffic from malware that is run in a controlled environment
+[Thug](https://github.com/buffer/thug) | Honeyclient tool designed to mimic the behavior of a user-driven network client application, such as a web browser 
  
 ---
 
