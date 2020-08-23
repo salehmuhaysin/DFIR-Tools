@@ -52,7 +52,8 @@ Tool              | Description
 [PE Capture](https://www.novirusthanks.org/products/pe-capture/) | Capture PE files, such as executables, DLLs and drivers, loaded in the system
 [PolarProxy](https://www.netresec.com/?page=PolarProxy) | Intercept and decrypt TLS encrypted traffic from malware that is run in a controlled environment
 [Thug](https://github.com/buffer/thug) | Honeyclient tool designed to mimic the behavior of a user-driven network client application, such as a web browser 
- 
+[SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) | useful tool to analyze a javascript malwares (not embedded in html)
+
 ---
 
 
