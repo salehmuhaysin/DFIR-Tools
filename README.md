@@ -53,6 +53,8 @@ Tool              | Description
 [PolarProxy](https://www.netresec.com/?page=PolarProxy) | Intercept and decrypt TLS encrypted traffic from malware that is run in a controlled environment
 [Thug](https://github.com/buffer/thug) | Honeyclient tool designed to mimic the behavior of a user-driven network client application, such as a web browser 
 [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) | useful tool to analyze a javascript malwares (not embedded in html), in REMNux use command line `js`
+[Box-js](https://github.com/CapacitorSet/box-js) | Emulate a Windows JScript environment, it should what the JavaScript would do if it is in actual environment (list urls, IoCs, codes, etc.)
+
 
 ---
 
