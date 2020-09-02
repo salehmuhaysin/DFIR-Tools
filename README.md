@@ -56,7 +56,7 @@ Tool              | Description
 [Box-js](https://github.com/CapacitorSet/box-js) | Emulate a Windows JScript environment, it should what the JavaScript would do if it is in actual environment (list urls, IoCs, codes, etc.)
 [scdbg](http://sandsprite.com/blogs/index.php?uid=7&pid=152) | scdbg is a shellcode analysis application built around the libemu emulation library. When run it will display to the user all of the Windows API the shellcode attempts to call.
 [Shellcode2exe](https://www.aldeid.com/wiki/Shellcode2exe) | Convert a binary shellcode to Windows executable file
-
+[FLOSS](https://github.com/fireeye/flare-floss) | Uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries
 
 ---
 
@@ -69,6 +69,7 @@ Tool              | Description
 [ConfuserEx-DeObfuscate](https://github.com/salehmuhaysin/DFIR-Tools/blob/master/Tools/ConfuserEx%20Collection.zip) | These tools could be used to deobfuscate executables packed by ConfuserEx
 [Scylla](http://www.woodmann.com/collaborative/tools/index.php/Scylla) | A great tool used to rebuild the import address table of executable (useful for manual unpacking of executables)
 [Protection_ID.eXe](https://tuts4you.com/e107_plugins/download/download.php?view.400) | tool used to detect the obfuscation type
+
 
 ---
 ### Helpful links
