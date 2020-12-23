@@ -28,6 +28,7 @@ Tool              | Description
 [MemProcFS](https://github.com/ufrisk/MemProcFS) | Accesses memory as a mounted filesystem. It can be used as an API as well. Can be used on live memory or a memory dump file.
 [TC4shell](http://www.tc4shell.com/en/download/) | Decompress most of compressed files, such as AD1, etc.
 [Recyclebin](https://df-stream.com/recycle-bin-i-parser/) | Recyclebin parser for ($I) files
+[Linux_Forensic_Harvester](https://github.com/theflakes/Linux_Forensic_Harvester) | fast triage tool for linux
 
 ---
 
