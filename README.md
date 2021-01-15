@@ -58,6 +58,7 @@ Tool              | Description
 [scdbg](http://sandsprite.com/blogs/index.php?uid=7&pid=152) | scdbg is a shellcode analysis application built around the libemu emulation library. When run it will display to the user all of the Windows API the shellcode attempts to call.
 [Shellcode2exe](https://www.aldeid.com/wiki/Shellcode2exe) | Convert a binary shellcode to Windows executable file
 [FLOSS](https://github.com/fireeye/flare-floss) | Uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries
+[Thug](https://github.com/buffer/thug) | Honeyclient tools to mimic client-side applications such as web browser
 
 ---
 
