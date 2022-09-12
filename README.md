@@ -135,3 +135,9 @@ If one use zgrep just like you use grep.
 If many:
 
 > find -iname "*.gz" | xargs zgrep <options like -P or -i ...> "<str or regex if using -P>"
+
+
+--- 
+
+## Splunk
+check this [splunk](https://github.com/salehmuhaysin/DFIR-Tools/blob/master/splunk_search.md)
