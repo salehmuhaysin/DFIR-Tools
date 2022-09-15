@@ -48,3 +48,11 @@ index=* NOT source="/*" NOT source="C:\\*" | stats count by source
 | eval p=split(Path , "\\") | eval s_path=mvjoin(mvindex(p , 0 , 1) , "\\") | stats count by s_path
 ```
 the field `s_path` contains the root folder, increase the number `1` to get the subfolders
+
+
+## Get number of hosts with specific value
+To get how many time a process executed and the number of hosts executed on.
+
+```
+| stats count distinct_count(host) as num_hosts by Process
+```
