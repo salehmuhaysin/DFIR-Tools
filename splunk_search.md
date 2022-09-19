@@ -56,3 +56,12 @@ To get how many time a process executed and the number of hosts executed on.
 ```
 | stats count distinct_count(host) as num_hosts by Process
 ```
+
+## parse logs field
+if you have a message or field that is not parsed, use `rex` command
+example
+```
+| rex field=Message "<Command>(?<cmd>.*)<\/Command>" | rex field=Message "<Arguments>(?<args>.*)<\/Arguments>"
+```
+this search command will extract the `cmd` and `args` from field `Message` 
+Note: Case sensitive 
