@@ -65,3 +65,14 @@ example
 ```
 this search command will extract the `cmd` and `args` from field `Message` 
 Note: Case sensitive 
+
+
+## Parse Datetime field
+if you want to have a `date` field, use the following
+```
+| convert timeformat="%Y-%m-%d" ctime(_time) AS date 
+```
+this way you can count by date like
+```
+| convert timeformat="%Y-%m-%d" ctime(_time) AS date | stats count by user,date
+```
